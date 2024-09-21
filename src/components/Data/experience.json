@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Software Developer Trainee",
+    "organisation": "Bharti Softtech",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "location": "Pune,Maharashtra",
+    "experiences": [
+      "Worked on Atithi Booking Engine",
+      "Worked with MERN stack developer team"
+    ],
+    "imageSrc": "company/bhartisofttech.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Software Developer intern",
+    "organisation": "a java home",
+    "startDate": "july, 2023",
+    "endDate": "dec, 2023",
+    "location": "Pune,Maharashtra",
+    "experiences": [
+      "Worked on Food Delivery Application"
+    ],
+    "imageSrc": "company/ajavahome.png"
+  }
+  
+]
